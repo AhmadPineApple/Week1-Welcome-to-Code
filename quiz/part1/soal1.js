@@ -27,7 +27,7 @@ if (nama === "") {
 } else if (peran === "") {
   console.log("Pilih Peranmu untuk memulai game")
 } else {
-  console.log(`halo ${nama} peran kamu adalah ${peran} kamu dapat menyerang dengan senjatamu!`)
+  console.log(`halo ${nama} peran kamu adalah ${peran} kamu dapat menyerang dengan senjatamu!`) //tambahan aja sih ini 
 }
 
 
