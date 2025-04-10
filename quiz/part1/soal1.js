@@ -20,7 +20,7 @@
 //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
 
 
-let nama = "syafiq", peran = "ksatria"; 
+let nama = "Ahmad🍍", peran = "ksatria"; 
 
 if (nama === "") {
   console.log("nama wajib diisi");
@@ -40,7 +40,6 @@ if (peran === "ksatria") {
 } else {
   console.log("tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada")
 }
-
 
 
 //code disini gunakan console.log untuk outputnya
